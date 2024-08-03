@@ -1,3 +1,0 @@
-E:/cpp-training/CMakeFiles/prueba.dir
-E:/cpp-training/CMakeFiles/edit_cache.dir
-E:/cpp-training/CMakeFiles/rebuild_cache.dir
